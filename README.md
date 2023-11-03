@@ -2,6 +2,8 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+[Nuxt 3を使いこなすために基礎から徹底解説](https://reffect.co.jp/vue/nuxt3/)
+
 ## Setup
 
 Make sure to install the dependencies:
