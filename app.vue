@@ -3,7 +3,7 @@
     <NuxtPage />
   </NuxtLayout>
 </template>
-<script setup lang="ts">
+<script setup>
   const admin = false;
   const layout = admin ? 'custom' : 'default';
 </script>
